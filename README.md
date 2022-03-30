@@ -6,7 +6,7 @@
 
 [![Reactjs](https://img.shields.io/badge/React-878787?logo=react)](https://es.reactjs.org/)
 [![Nextjs](https://img.shields.io/badge/Next-878787?logo=next.js)](https://nextjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-878787?logo=javascript)](/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-878787?logo=javascript)](https://github.com/JFSilvaM/JFSilvaM/blob/main/README.md)
 
 ## You can search me in:
 
