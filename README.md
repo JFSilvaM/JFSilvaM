@@ -15,6 +15,7 @@ I'm a junior Front-end developer. I love making web apps that are easy to use an
 [![CSS3](https://img.shields.io/badge/CSS3-878787?logo=css3&logoColor=1572B6)](https://developer.mozilla.org/es/docs/Web/CSS)
 
 - Others  
+[![Git](https://img.shields.io/badge/Git-878787?logo=git&logoColor=F05032)](https://git-scm.com/)
 [![Python](https://img.shields.io/badge/Python-878787?logo=python&logoColor=3776AB)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-878787?logo=php&logoColor=777BB4)](https://www.php.net/)
 [![Nodejs](https://img.shields.io/badge/Node-878787?logo=node.js&logoColor=339933)](https://nodejs.org/)
