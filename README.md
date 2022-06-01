@@ -1,4 +1,4 @@
-# Hey! I'm João Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey! I'm João Silva
 
 I'm a junior Front-end developer. I love making web apps that are easy to use and built with the best practices.
 
