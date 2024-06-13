@@ -6,7 +6,11 @@ I'm a junior Front-end developer. I love making web apps that are easy to use an
  
 [![Reactjs](https://img.shields.io/badge/React-878787?logo=react&logoColor=61DAFB)](https://es.reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-878787?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-878787?logo=typescript&logoColor=F7DF1E)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-878787?logo=typescript&logoColor=0071DB)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-878787?logo=vite&logoColor=4F2CDB)](https://vitejs.dev/)
+[![Webpack](https://img.shields.io/badge/Webpack-878787?logo=webpack&logoColor=73C2DA)](https://webpack.js.org/)
+[![Cypress](https://img.shields.io/badge/Cypress-878787?logo=cypress&logoColor=00DB92)](https://www.cypress.io/)
+[![Jestjs](https://img.shields.io/badge/Jest-878787?logo=jest&logoColor=DB4546)](https://jestjs.io/)
 [![HTML5](https://img.shields.io/badge/HTML5-878787?logo=html5&logoColor=E34F26)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-878787?logo=css3&logoColor=1572B6)](https://developer.mozilla.org/es/docs/Web/CSS)
 
