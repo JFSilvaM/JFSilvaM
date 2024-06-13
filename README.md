@@ -1,6 +1,6 @@
 # Hey! I'm João Silva
 
-I'm a junior Front-end developer. I love making web apps that are easy to use and built with the best practices.
+I'm a Front-end developer and I've basic knowledge of QA. I love making web apps that are easy to use and built with the best practices.
 
 ## Skills:
  
