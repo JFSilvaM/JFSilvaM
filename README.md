@@ -5,6 +5,8 @@ I'm a Front-end developer and I've basic knowledge of QA. I love making web apps
 ## Skills:
  
 [![Reactjs](https://img.shields.io/badge/React-878787?logo=react&logoColor=61DAFB)](https://es.reactjs.org/)
+[![Astro](https://img.shields.io/badge/Astro-878787?logo=astro&logoColor=000000)](https://astro.build/)
+[![Lit](https://img.shields.io/badge/Lit-878787?logo=astro&logoColor=334eff)](https://lit.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-878787?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-878787?logo=typescript&logoColor=0071DB)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-878787?logo=vite&logoColor=4F2CDB)](https://vitejs.dev/)
